@@ -7,7 +7,7 @@ git clone https://github.com/thiagolll/crud-laravel-10.git
 
 Create the File .env
 ```sh
-cd example-project/
+cd crud-laravel-10/
 cp .env.example .env
 ```
 
